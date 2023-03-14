@@ -1,6 +1,6 @@
 # ALGORİTMA ANALİZİ VE TASARIMI
 
-Bu projede Hızlı algoritmalar ve BruteForce algoritmaları kullanarak bir verinin en büyük elemanının bulunması ve bir verinin sıralanmasının çalışma sürelerinin karşılaştırılmasıdır.
+Bu projede Hızlı algoritmalar ve BruteForce algoritmaları kullanarak bir verinin en büyük elemanının bulunması ve bir verinin sıralanmasının çalışma sürelerinin karşılaştırılmıştır.
 
 **MaxElemanıBulma** , dizinin en büyük elemanını bulmak için iki tür yöntem kullanılmıştır. İlkinde hızlı bir sonuç almak için `Quick Sort` Algoritması kullanılarak dizi sıralanmıştır. Bunun sonucunda en son eleman en büyük eleman olacağından, en büyük eleman kolayca bulunmuştur. İkinci yöntemde ise BruteForce algoritması için `Linear Search` kullanılmıştır. `Linear Search` dizi elemanlarının üstünden tek tek geçerek en büyük elemanı bulmaktadır. Karşılaştırıldıklarında `Quick Sort`, `Linear Search` den daha hızlı bir algoritmadır.
 
